@@ -2,7 +2,7 @@
 Implementation of Backpropagation algorithm for Convolution Layer.
 
 
-
+![BP Algo.](sample_files/BP_CNN.png)
 
 ### Theory and Math behind BP for convolution:
 
