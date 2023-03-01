@@ -1,6 +1,9 @@
 # Backprop_for_Convolution_Layer
 Implementation of Backpropagation algorithm for Convolution Layer.
 
+
+
+
 ### Theory and Math behind BP for convolution:
 
 - [A nice explination of Transpose convolution and use of it to find the gradients](https://codeandfire.github.io/assets/2021-07-16-backpropagation/article.pdf)
